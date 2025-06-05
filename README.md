@@ -7,9 +7,17 @@
 ### 📊 GitHub Stats  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julyanarch&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyanarch&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=julyanarch&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyanarch&layout=compact&langs_count=7&theme=radical" width="45%"/>
 </div>
+
+---
+### 💡 About Me
+
+- 🔭 I'm currently studying Systems Analysis and Development at SENAI
+- 🌱 I'm learning: Python language (on my own)
+- 🎯 Goal: To become a Full Stack Developer
+- ✨ Fun fact: I love programming challenges
 
 ---
 
