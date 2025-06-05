@@ -14,7 +14,7 @@
 ---
 ### 💡 About Me
 
-- 🔭 I'm currently studying Systems Analysis and Development at SENAI
+- 🔭 I'm currently studying Systems Analysis and Development at SENAI campus "Mariano Ferraz"
 - 🌱 I'm learning: Python language (on my own)
 - 🎯 Goal: To become a Full Stack Developer
 - ✨ Fun fact: I love programming challenges
