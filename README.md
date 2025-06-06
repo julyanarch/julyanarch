@@ -14,10 +14,19 @@
 ---
 ### ✨ About Me
 
-- 📚 I am currently studying Technology in Systems Analysis and Development at "SENAI - São Paulo"
+- 📚 I am currently studying Technology in Systems Analysis and Development at "SENAI School - Mariano Ferraz"
 - 🔭 I'm learning: Python language (on my own)
 - 💻 Goal: To become a Full Stack Developer
 - 🎯 Fun fact: I love programming challenges
+
+📜 complementary courses:
+
+Python Programming – SENAI School ‘Suzana Dias’ – 60h
+Microcomputer Assembly and Maintenance – SENAI School ‘Nadir Dias de Figueiredo’ – 80h
+Web Design Interface – SENAI School ‘Mariano Ferraz’ – 60h
+Programming Logic – SENAI School ‘Mariano Ferraz’ – 14h
+Fundamentals of Artificial Intelligence – SENAI School ‘Mariano Ferraz’ – 8h
+LPIC1 - Linux Operating System – SENAI School ‘Nadir Dias de Figueiredo’ – 40h
 
 ---
 
