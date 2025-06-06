@@ -14,7 +14,7 @@
 ---
 ### ✨ About Me
 
-- 📚 I'm currently studying Systems Analysis and Development at SENAI campus "Mariano Ferraz"
+- 📚 I am currently studying Technology in Systems Analysis and Development at "SENAI - São Paulo"
 - 🔭 I'm learning: Python language (on my own)
 - 💻 Goal: To become a Full Stack Developer
 - 🎯 Fun fact: I love programming challenges
@@ -25,10 +25,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-5cceff?style=for-the-badge&logo=canva&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-1a1e21?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
@@ -40,6 +42,8 @@
   <a href="https://www.linkedin.com/in/julyana-rocha-7227b7240" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:julyana.rocha@aluno.senai.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/julyana_rch/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
 </div>
 
 
