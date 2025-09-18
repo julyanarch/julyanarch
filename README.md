@@ -66,7 +66,7 @@
 <div>
   <h2>Hobbies:</h2>
     <img width="15%" height="15%" margin="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
-    <img width="15%" height="15%" margin="30px" src="https://i.pinimg.com/736x/dc/9d/54/dc9d54d82bb241939615dd2e94c9055d.jpg"/> 
+    <img width="15%" height="15%" margin="30px" src="[https://i.pinimg.com/736x/dc/9d/54/dc9d54d82bb241939615dd2e94c9055d.jpg](https://img.cdndsgni.com/preview/12603971.jpg)"/> 
     <img width="15%" height="15%" margin="30px" src="https://cdn-icons-png.flaticon.com/512/1478/1478879.png"/> 
     <img width="15%" height="15%" margin="30px" src="https://static.vecteezy.com/system/resources/previews/010/286/340/non_2x/online-cinema-art-movie-watching-with-popcorn-and-film-strip-cinematograph-concept-png.png"/> 
 </div>
