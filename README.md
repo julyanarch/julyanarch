@@ -27,6 +27,7 @@
 - Programming Logic – SENAI School ‘Mariano Ferraz’ – 14h
 - Fundamentals of Artificial Intelligence – SENAI School ‘Mariano Ferraz’ – 8h
 - LPIC1 - Linux Operating System – SENAI School ‘Nadir Dias de Figueiredo’ – 40h
+- Computer Networks: Local Network Implementation – SENAI School ‘Mariano Ferraz’ - 48h
 
 ---
 
